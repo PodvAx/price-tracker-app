@@ -1,0 +1,11 @@
+{
+  "name": "price-tracker-app",
+  "version": "1.0.0",
+  "description": "Price tracker app, allows to track price for the item you want on some platforms and web sites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PodvAx",
+  "license": "SEE LICENSE IN /LICENCE"
+}
